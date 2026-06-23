@@ -1,4 +1,4 @@
-# 💌 Will You Go On A Date With Me?
+# 💌 Date e Jaba?
 
 An interactive, animated date proposal web app that takes someone on a delightful journey — from a charming proposal screen all the way to planning the perfect date together.
 
